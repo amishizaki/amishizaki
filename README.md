@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alina
 - 👀 I’m interested in ... full stack coding
 - 🌱 I’m currently learning ... full stack coding
-- 💞️ I’m looking to collaborate on ... full stack coding
+- 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... here!
 
 <!---
